@@ -2,7 +2,7 @@ import React from "react";
 
 function Content() {
   return (
-    <div className="flex flex-col bg-slate-800 p-10 text-white">
+    <div className="flex flex-col bg-slate-800 py-10 px-7 md:px-20 text-white bg-hero-image bg-no-repeat bg-right md:bg-40 bg-16">
       <h1 className="text-left py-3 text-6xl">Fun Facts about React</h1>
       <ul
         role="list"
